@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "learning project for JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexajosef/todo.git"
+  },
+  "keywords": [
+    "js",
+    "api"
+  ],
+  "author": "Josef Lexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexajosef/todo/issues"
+  },
+  "homepage": "https://github.com/lexajosef/todo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
